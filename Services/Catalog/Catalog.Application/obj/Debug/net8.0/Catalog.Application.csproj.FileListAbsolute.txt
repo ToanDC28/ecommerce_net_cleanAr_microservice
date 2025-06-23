@@ -1,0 +1,16 @@
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.deps.json
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.pdb
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.pdb
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.AssemblyReference.cache
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.sourcelink.json
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
+D:\CShaft\API\cleanAr\Ecommerce\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll

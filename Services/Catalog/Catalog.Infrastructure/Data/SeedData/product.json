@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "fe9183ff-5a4b-46a1-9f44-2d61d83b42d9",
+    "Name": "iPhone 15",
+    "Sumary": "Latest Apple smartphone",
+    "Description": "The iPhone 15 features the latest A17 chip and a new camera system.",
+    "ImageFile": "iphone15.jpg",
+    "Price": 999.99,
+    "BrandId": "b8c72a7d-4ec1-4f8d-b0c4-091fdb4d9b01",
+    "TypeId": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+    "Brand": {
+      "Id": "b8c72a7d-4ec1-4f8d-b0c4-091fdb4d9b01",
+      "Name": "Apple"
+    },
+    "Type": {
+      "Id": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+      "Name": "Smartphone"
+    }
+  },
+  {
+    "Id": "9e801245-bbd1-4de7-9c43-3d36a576e82d",
+    "Name": "Galaxy S24",
+    "Sumary": "Flagship Samsung phone",
+    "Description": "Samsung Galaxy S24 comes with Snapdragon Gen 3 and AMOLED display.",
+    "ImageFile": "galaxys24.jpg",
+    "Price": 899.99,
+    "BrandId": "0b343acd-b54e-45b6-81c3-5ae55c031d6e",
+    "TypeId": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+    "Brand": {
+      "Id": "0b343acd-b54e-45b6-81c3-5ae55c031d6e",
+      "Name": "Samsung"
+    },
+    "Type": {
+      "Id": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+      "Name": "Smartphone"
+    }
+  },
+  {
+    "Id": "1e2af8a1-962e-4638-b3ff-4e2fba58273e",
+    "Name": "Sony Xperia Pro",
+    "Sumary": "High-end phone for professionals",
+    "Description": "Xperia Pro is designed for content creators and professionals with top-tier features.",
+    "ImageFile": "xperia_pro.jpg",
+    "Price": 1199.50,
+    "BrandId": "46e30a16-78b7-49a3-9b1b-8b8f764f20b0",
+    "TypeId": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+    "Brand": {
+      "Id": "46e30a16-78b7-49a3-9b1b-8b8f764f20b0",
+      "Name": "Sony"
+    },
+    "Type": {
+      "Id": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+      "Name": "Smartphone"
+    }
+  }
+]

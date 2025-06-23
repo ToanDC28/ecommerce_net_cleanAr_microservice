@@ -1,0 +1,19 @@
+﻿using MongoDB.Bson.Serialization.Attributes;
+
+namespace Catalog.Core.Entities
+{
+    public class Product : BaseEntity
+    {
+        [BsonElement("Name")]
+        public string Name { get; set; }
+        public string Sumary { get; set; }
+        public string Description { get; set; }
+        public string ImageFile { get; set; }
+        [BsonRepresentation(MongoDB.Bson.BsonType.Decimal128)]
+        public decimal Price { get; set; }
+        public string BrandId { get; set; }
+        public string TypeId { get; set; }
+        public ProductBrand Brand { get; set; }
+        public ProductType Type { get; set; }
+    }
+}

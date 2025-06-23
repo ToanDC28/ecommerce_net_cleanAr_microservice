@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "2d3946cd-2c60-4095-b38e-33d7344a0ccf",
+    "Name": "Smartphone"
+  },
+  {
+    "Id": "871d3fc1-89f3-4fa8-9c41-78c4a447f6a7",
+    "Name": "Laptop"
+  },
+  {
+    "Id": "e76c46aa-f06f-4b1f-9db6-e2682749fd7f",
+    "Name": "Tablet"
+  }
+]
