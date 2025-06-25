@@ -1,0 +1,56 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Discount.Grpc.Protos";
+package discount;
+
+message CouponModel {
+  string id = 1;
+  string product_id = 2;
+  string description = 3;
+  int32 amount = 4;
+  string expired_date = 5;
+  bool is_activate = 6;
+  string create_at = 7;
+  string update_at = 8;
+}
+
+message GetCouponByProductIDRequest {
+  string product_id = 1;
+}
+
+message ListCouponsResponse {
+  repeated CouponModel coupons = 1;
+}
+
+message GetCouponByIdRequest {
+  string id = 1;
+}
+
+message CreateCouponRequest {
+  CouponModel coupon = 1;
+}
+
+message UpdateCouponRequest {
+  CouponModel coupon = 1;
+}
+
+message ToggleCouponRequest {
+  string id = 1;
+}
+
+message CouponResponse {
+  CouponModel coupon = 1;
+}
+
+message ToggleCouponResponse {
+  CouponModel coupon = 1;
+}
+
+// Service interface
+service DiscountService {
+  rpc GetCouponByProductID (GetCouponByProductIDRequest) returns (ListCouponsResponse);
+  rpc GetCouponById (GetCouponByIdRequest) returns (CouponResponse);
+  rpc CreateCoupon (CreateCouponRequest) returns (CouponResponse);
+  rpc UpdateCoupon (UpdateCouponRequest) returns (CouponResponse);
+  rpc ToggleCoupon (ToggleCouponRequest) returns (ToggleCouponResponse);
+}

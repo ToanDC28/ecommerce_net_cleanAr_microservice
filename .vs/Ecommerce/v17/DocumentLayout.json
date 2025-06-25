@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE4EBBC-44A2-4324-A466-D456D984FFAC}|docker-compose.dcproj|d:\\cshaft\\api\\cleanar\\ecommerce\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DBE4EBBC-44A2-4324-A466-D456D984FFAC}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBE4EBBC-44A2-4324-A466-D456D984FFAC}|docker-compose.dcproj|d:\\cshaft\\api\\cleanar\\ecommerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DBE4EBBC-44A2-4324-A466-D456D984FFAC}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5DB50567-8161-41D7-A577-309A9F038912}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|d:\\cshaft\\api\\cleanar\\ecommerce\\services\\discount\\discount.application\\mappers\\discountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB50567-8161-41D7-A577-309A9F038912}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\mappers\\discountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-21T04:00:03.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-21T03:58:27.742Z",
+              "Title": "DiscountProfile.cs",
+              "DocumentMoniker": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "ToolTip": "D:\\CShaft\\API\\cleanAr\\Ecommerce\\Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Application\\Mappers\\DiscountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:13:04.198Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basket.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70cbb59c9ee2b18079d1aa81255b86bee1ca0119")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3566fecd8fba0b3b753f032e174fbaf744b9dbbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basket.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basket.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

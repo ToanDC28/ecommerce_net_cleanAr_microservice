@@ -1,0 +1,12 @@
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.deps.json
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.pdb
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfoInputs.cache
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfo.cs
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.csproj.CoreCompileInputs.cache
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.sourcelink.json
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\refint\Discount.Core.dll
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.pdb
+D:\CShaft\API\cleanAr\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net8.0\ref\Discount.Core.dll
